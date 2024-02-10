@@ -5,6 +5,5 @@
     "Carlo Caione <carlo.caione@gmail.com>"
   ],
   "description": "NeoSolarized Zed theme",
-  "repository": "https://github.com/carlocaione/NeoSolarized.zed",
-  "themes": ["themes/neosolarized"]
+  "repository": "https://github.com/carlocaione/NeoSolarized.zed"
 }
