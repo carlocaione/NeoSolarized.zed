@@ -1,0 +1,7 @@
+id = "neosolarized"
+name = "NeoSolarized Theme"
+version = "0.0.2"
+schema_version = 1
+authors = ["Carlo Caione <carlo.caione@gmail.com>"]
+description = "NeoSolarized Zed theme."
+repository = "https://github.com/carlocaione/NeoSolarized.zed"
